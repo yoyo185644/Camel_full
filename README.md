@@ -1,2 +1,2 @@
 # Camel_full
-The full version of Camle
+The full version of Camel
